@@ -2,6 +2,7 @@
 terraform.tfstate
 terraform.tfstate.backup
 terraform.tfstate
+terraform.tfvars
 
 # Ignore Terraform lock file (optional, include if you want reproducible builds)
 .terraform.lock.hcl
