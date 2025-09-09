@@ -1,9 +1,9 @@
-cloudflare_api_token = "8c6e9eb0836b23f72823117dcd991ccf69b3f"
-email_cloudflare = "einzamada@gmail.com"
-zone_id = "a4ddd5264c9a7f067323dd35cf37ac8a"
+cloudflare_api_token = "cloudflare_api_token"
+email_cloudflare = "email"
+zone_id = "zone_id"
 
 ###########domain name list################
 
 domain_name = {
-  "test" = "nanides.site"
+  "sub-domain" = "domain.com"
 }
