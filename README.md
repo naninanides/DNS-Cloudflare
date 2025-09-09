@@ -92,6 +92,7 @@ This Terraform configuration creates the following resources:
 ## 📁 Project Structure
 
 ```📄 .gitignore
+📄 README.md
 📄 main.tf
 📄 provider.tf
 📄 terraform.tfvars.example
@@ -109,6 +110,8 @@ See `variables.tf` for all available configuration options.
 ## 🧹 Cleanup
 
 To destroy the created infrastructure:
+
+terraform destroy
 
 ``````
 
@@ -128,6 +131,6 @@ To destroy the created infrastructure:
 
 ⭐ **Please give this repository a star if you found it helpful!**
 
-*Generated with ❤️ by GitHub README Generator* - 2025-09-10 01:37
+*Generated with ❤️ by GitHub README Generator* - 2025-09-10 01:40
 
 🧠 Smart Analysis • ☁️ Multi-Cloud Support • 🚀 Production Ready
